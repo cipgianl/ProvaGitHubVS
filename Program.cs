@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Secondo Messaggio aggiornato.");
+Console.WriteLine("Eseguito un Revert");
